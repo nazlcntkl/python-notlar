@@ -64,4 +64,8 @@ sayilar= [1,2,3,4,5,6,7]
 
 isimler.sort()
 sonuc=isimler
+
 print(sonuc)
+
+# .count() ile verilen listenin içinde aradığımız değerden kaç tane olduğunu yazdırılır.
+#mesela sayılar.count(4) sonucu 1 olur. çünkü içerisinde 1 adet 4 var.
