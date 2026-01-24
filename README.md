@@ -13,7 +13,7 @@ AGE = 4656
 print(age)
 print(AGE)
 
-# Türkçe ifadelerden uzak durulmalı
+
 # örnek: name = "xxx"
 
 a = 10
@@ -25,7 +25,7 @@ b = "20"
 print(a + b)  # 1020
 print(type(a + b))  # str
 
-sayı1 = 1
-sayı2 = 2
-toplam = sayı1 + sayı2
-print(toplam)  # Sonuç: 3
+sayi1 = 1
+sayi2 = 2
+toplam = sayi1 + sayi2
+print(toplam)  # Sonuc: 3
