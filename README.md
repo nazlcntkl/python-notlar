@@ -14,7 +14,7 @@ print(age)
 print(AGE)
 
 # Türkçe ifadelerden uzak durulmalı
-# örnek: name = "nazlı"
+# örnek: name = "xxx"
 
 a = 10
 b = 20
