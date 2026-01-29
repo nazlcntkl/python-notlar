@@ -1,0 +1,11 @@
+target = 9
+if target <= 10: 
+    print("Target is dangerous: short range")
+
+    targetspeed = 300
+    if targetspeed >= 250:
+        print("Target is fast")
+
+        targettype = ("missile")
+        if targettype == "missile":
+              print("Critical threat")
